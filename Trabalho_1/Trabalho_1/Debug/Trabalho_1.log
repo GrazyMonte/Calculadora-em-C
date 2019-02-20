@@ -1,0 +1,5 @@
+﻿  calc.cpp
+c:\users\grazi\documents\programacao_avancada\trabalho_1\trabalho_1\trabalho_1\calc.cpp(55): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\grazi\documents\programacao_avancada\trabalho_1\trabalho_1\trabalho_1\calc.cpp(56): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\grazi\documents\programacao_avancada\trabalho_1\trabalho_1\trabalho_1\calc.cpp(66): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Trabalho_1.vcxproj -> C:\Users\grazi\Documents\Programacao_Avancada\Trabalho_1\Trabalho_1\Debug\Trabalho_1.exe
